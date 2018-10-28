@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP865.h
-Description: CP865 (VGA Code Page 865) font for DisplayCore
+Description: CP865 (VGA Code Page 865)
