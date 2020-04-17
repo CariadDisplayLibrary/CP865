@@ -1,2 +1,2 @@
-CP865.cpp libraries/DisplayCore/CP865
-CP865.h libraries/DisplayCore/CP865
+src libraries/DisplayCore/CP865
+library.properties libraries/DisplayCore/CP865
