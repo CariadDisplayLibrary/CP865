@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-cp865
+Source: libcariad-font-cp865
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-cp865
+Package: libcariad-font-cp865
+Replaces: libdisplaycore-font-cp865
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: CP865.h
 Description: CP865 (VGA Code Page 865)
